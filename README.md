@@ -21,6 +21,8 @@ O uso do middleware permite que os usuários executem solicitações como enviar
 
 4 - Rode o comando: "php artisan db:seed"  
 
+5 - Rode o comando: "php artisan serve" e clique em http://localhost:8000
+
 
 ## Detalhes da aplicação
 
