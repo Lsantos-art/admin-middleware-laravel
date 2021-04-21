@@ -41,8 +41,6 @@ Pronto, agora é só inserir o middleware nas rotas desejadas em web.php ou api.
 
 
 ## Contribuição de Lsantos developer
-<a href="https://github.com/remarkablemark.png?size=10">
-  <img src="https://avatars.githubusercontent.com/u/59149941?v=4">
-</a>
+
 
 
