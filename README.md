@@ -40,3 +40,9 @@ por exemplo:
 Pronto, agora é só inserir o middleware nas rotas desejadas em web.php ou api.php
 
 
+## Contribuição de Lsantos developer
+<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
+  <img src="https://avatars.githubusercontent.com/u/59149941?v=4">
+</a>
+
+
