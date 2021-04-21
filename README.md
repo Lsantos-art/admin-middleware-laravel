@@ -26,10 +26,13 @@ O uso do middleware permite que os usuários executem solicitações como enviar
 
 Este projeto possui um middleware que controla o acesso admin através da coluna "role" da tabela de usuário. Caso necessite criar novos middlewares com outras validações faça:
 
-1 - Rode o comando: "php artisan make:middleware nome_middleware"
-2 - Em App/Http/Kernel.php adicione um apelido para o seu middleware
+1 - Rode o comando: "php artisan make:middleware nome_middleware"  
 
-por exemplo: 
+2 - Em App/Http/Kernel.php adicione um apelido para o seu middleware  
+
+
+por exemplo:   
+
 'master' => \App\Http\Middleware\Master::class,
 
 Pronto, agora é só inserir o middleware nas rotas desejadas em web.php ou api.php
