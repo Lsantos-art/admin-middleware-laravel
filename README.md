@@ -13,10 +13,14 @@ O uso do middleware permite que os usuários executem solicitações como enviar
 
 ## Tutorial de instalação
 
-1 - Baixe ou clone este reposítorio. 
-2 - Rode o comando: "composer install"
-3 - Rode o comando: "php artisan migrate"
-4 - Rode o comando: "php artisan db:seed"
+1 - Baixe ou clone este reposítorio.   
+
+2 - Rode o comando: "composer install"  
+
+3 - Rode o comando: "php artisan migrate"  
+
+4 - Rode o comando: "php artisan db:seed"  
+
 
 ## Detalhes da aplicação
 
@@ -29,4 +33,5 @@ por exemplo:
 'master' => \App\Http\Middleware\Master::class,
 
 Pronto, agora é só inserir o middleware nas rotas desejadas em web.php ou api.php
+
 
